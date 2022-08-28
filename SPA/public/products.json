@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://avatars.githubusercontent.com/u/68384429?v=4",
+    "name": "jeong1",
+    "price": 100000
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://avatars.githubusercontent.com/u/68384429?v=4",
+    "name": "jeong2",
+    "price": 200000
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://avatars.githubusercontent.com/u/68384429?v=4",
+    "name": "jeong3",
+    "price": 300000
+  }
+]
