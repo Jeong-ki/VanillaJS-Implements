@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "imageUrl": "https://avatars.githubusercontent.com/u/68384429?v=4",
+  "name": "jeong1",
+  "price": 100000,
+  "productOptions": [
+    {
+      "id": 1,
+      "stock": 0,
+      "name": "ki",
+      "price": 1000
+    },
+    {
+      "id": 2,
+      "stock": 1,
+      "name": "soo",
+      "price": 21000
+    },
+    {
+      "id": 3,
+      "stock": 2,
+      "name": "bucks",
+      "price": 13000
+    }
+  ]
+}
